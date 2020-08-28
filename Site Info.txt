@@ -1,0 +1,20 @@
+Features
+    Creative design
+    Working send form
+    Bootstrap 3.3.5
+    Easy to customize
+    Clean and smart code
+    Elegant icons
+    Google font
+    Valid HTML5 code
+    Well Documented
+
+High Resolution 	-Yes
+Compatible Browsers 	-IE10, IE11, Firefox, Safari, Opera, Chrome, Edge
+Compatible With 	-Bootstrap 3.x
+Files Included 		-HTML Files, CSS Files, JS Files
+Columns 		-4+
+Layout 			-Responsive
+
+
+
